@@ -1,9 +1,13 @@
 # graphqlGoClient
 simple graphql client 👾 👾
-#Usage
+# Installation
+```go
+go get github.com/sch00lb0y/graphqlGoClient
+```
+# Usage
 ```go
 package main
-import "graphqlGoClient"
+import "sch00lb0y/graphqlGoClient"
 import "fmt"
 
 func main() {
